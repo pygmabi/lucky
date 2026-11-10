@@ -1,0 +1,85 @@
+/*fonts */
+@font-face {
+    font-family: snell;
+    src: url(fonts/Snell-BT-Regular.otf);
+}
+
+@font-face {
+    
+    font-family: savoye;
+    src: url(fonts/SavoyeLETPlain1.0.ttf);
+}
+
+@font-face {
+    
+    font-family: cardoB;
+    src: url(fonts/Cardo-Bold.ttf);
+}
+
+@font-face {
+    
+    font-family: canceller;
+    src: url(fonts/CancellerescaBastardaBeta12.otf);
+}
+
+
+/* stroke outline thing */
+
+#subjectitle {
+    -webkit-text-stroke: 0.1px #073207; 
+    -webkit-text-stroke-width: 0.1px;
+}
+
+/* pdf previews */
+
+.pdf {
+    width: 50%;
+    height: 100%;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* background lace for home page */
+
+/*
+.homelace {
+    background-image: url(images/homelace.PNG);
+    background-size: 100%, 100%;
+    background-repeat: no-repeat;
+    position:absolute;
+    display: flexbox;
+    top:50;
+    left:50;
+    min-width: 150vh;
+    min-height: 65vw;
+    
+
+}
+
+*/

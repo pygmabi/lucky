@@ -1,0 +1,67 @@
+<link rel="stylesheet" href="styles.css" />
+
+<!DOCTYPE html>
+
+<html lang="eng"> 
+    <head>
+        <meta charset="utf-8"> 
+        
+        <title> For Test</title>
+        <link rel="icon" type="image/x-icon" href="images/logosoft.PNG">
+        
+</head>
+
+<body>
+
+<!-- logo -->
+
+    <center> <img src="images/logotextsoft.PNG" style="width: 150px; height: 150px; ;"> </center>
+
+<br><br>
+    
+<table>
+
+<tr style="background-image: url(images/homelace.PNG)">
+<td>
+wassuppp !!    
+</td>
+</tr>
+
+</table>
+
+
+<!--
+
+ <!-- container -->
+
+<div class="homelace">
+
+<!-- menu text ? -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h1 style="font-size: 80px; text-align: center;">
+Revise
+</h1>
+    
+
+
+<!-- blurb ig -->
+<h2 style="text-align:center; margin-left: 250px; margin-right: 250px;">
+Over here you can find chapter summaries, definitions, flashcards, and papers to study from!
+</h2>
+
+<!-- subjects -->
+<h3 style="text-align:center; margin-left: 200px; margin-right: 200px; font-size: 25px;">
+<br>
+Biology - Chemistry - Mathematics - Physics
+</h3>
+
+</div>
+    
+-->
+
+
+</body>
+
+<footer> 
+i'm still working on this site, please be patient for updates :)
+</footer>
