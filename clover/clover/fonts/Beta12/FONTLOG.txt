@@ -1,0 +1,45 @@
+FONTLOG for the Cancelleresca Bastarda fonts
+
+This file provides detailed information on the Cancelleresca Bastarda
+Font Software.
+
+This information should be distributed along with the Cancelleresca Bastarda fonts
+and any derivative works.
+
+Basic Font Information
+
+Cancelleresca Bastarda, designed by Jan van Krimpen in 1934, is possibly the one of the finest typeface in the world.
+
+Inspired by Writing Masters of the 15th Century (such as Casanova, Tagliente, Arrighi and Palatino) Jan van Krimpen Cancelleresca Bastarda brings the Chancery genre to a new level.
+
+We are making a digital revival, trying to keep it as close to the original as possible.
+At this stage, we are desperately looking for good quality source images.
+
+This is a very early beta release.
+At this stage our main focus is into getting the lowercase letter-shapes as close to the originals as possible.
+
+Join the project at:
+http://www.impallari.com/projects/overview/jan-van-krimpen-cancelleresca-bastarda-revival
+
+
+Documentation can be found at www.impallari.com
+
+To contribute to the project contact Pablo Impallari 
+at impallari@gmail.com
+
+ChangeLog
+
+29 Jan 2012 (Pablo Impallari) Cancelleresca Bastarda v0.012
+- Initial Beta release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Pablo Impallari
+E: impallari@gmail.com
+W: http://www.impallari.com
+D: Designer
+
