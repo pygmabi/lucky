@@ -22,6 +22,11 @@
     src: url(fonts/CancellerescaBastardaBeta12.otf);
 }
 
+@font-face {
+    
+    font-family: eb08;
+    src: url(fonts/EBGaramond08-Italic.ttf);
+}
 
 /* stroke outline thing */
 
